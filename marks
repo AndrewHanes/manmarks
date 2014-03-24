@@ -1,6 +1,6 @@
 .\" Mark's
 .\" Contact (585) 473-1563
-.TH man 8 "30 Jan 2013" "1.0" "Marks man page"
+.TH marks 1 "30 Jan 2013" "1.0" "Marks man page"
 .SH NAME
 Mark's Texas Hots
 .SH CONTACT
@@ -19,13 +19,10 @@ Keep in mind that they DO tow cars.
 .sp
 Parking is behind the restaurant
 .SH OPTIONS
-Late/Dinner: Plate - [2 x Cheeseburgers || 2 x Hamburgers || 2 x hotdogs] && [Fries || HomeFries || Beans || Macsalad || Coleslaw], Milkshakes, a variety of other things also, but plates are excellent.
+Late/Dinner: Plate - [2 x Cheeseburgers || 2 x Hamburgers || 2 x hotdogs] && [Fries || HomeFries || Beans || Macsalad || Coleslaw], Milkshakes, a variety of other things also, but plates are excellent.  If you go there and haven't gotten a plate, you need to get a plate.  Otherwise you are wrong.
 .sp
 Breakfast:  Good breakfast/coffee
 
-Water: Good, not filled with shit.  Proven by experiment condicted by Travis Whitaker
-.SH SEE ALSO
-Nick Tahou's, Jay's
 .SH DIRECTIONS
 1. Head south toward Dorm Crescent/Rochester Institute of Technology
 .sp
@@ -49,6 +46,9 @@ Nick Tahou's, Jay's
 
 .SH BUGS
 No known bugs.
+
+.SH SEE ALSO
+Nick Tahou's, Jay's
 
 .SH AUTHOR
 Andrew Hanes ahanes@csh.rit.edu
